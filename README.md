@@ -4,4 +4,4 @@ This is a super simple, single-page website hooked up with a stylesheet and a ja
 
 ## Potentially Related Assignments
 
-* [An Introduction to CSS](https://gist.github.com/stevekinney/4751517)
+* [An Introduction to CSS](https://gist.github.com/stevekinney/4751517) (February 11, 2013)
